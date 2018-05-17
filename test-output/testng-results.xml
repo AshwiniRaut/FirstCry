@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="7563" started-at="2018-05-17T18:24:39Z" finished-at="2018-05-17T18:24:46Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="7563" started-at="2018-05-17T18:24:39Z" finished-at="2018-05-17T18:24:46Z">
+      <class name="com.Test.FirstCry.Test.com.Test.FirstCry.Automation.Test.LoginPage">
+        <test-method status="PASS" signature="launchDriver()[pri:0, instance:com.Test.FirstCry.Test.com.Test.FirstCry.Automation.Test.LoginPage@194bcebf]" name="launchDriver" is-config="true" duration-ms="10818" started-at="2018-05-17T23:54:28Z" finished-at="2018-05-17T23:54:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchDriver -->
+        <test-method status="PASS" signature="login()[pri:0, instance:com.Test.FirstCry.Test.com.Test.FirstCry.Automation.Test.LoginPage@194bcebf]" name="login" duration-ms="7539" started-at="2018-05-17T23:54:39Z" finished-at="2018-05-17T23:54:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.Test.FirstCry.Test.com.Test.FirstCry.Automation.Test.LoginPage@194bcebf]" name="closeBrowser" is-config="true" duration-ms="2097" started-at="2018-05-17T23:54:46Z" finished-at="2018-05-17T23:54:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.Test.FirstCry.Test.com.Test.FirstCry.Automation.Test.LoginPage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
